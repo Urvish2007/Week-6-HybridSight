@@ -11,7 +11,7 @@ pinned: false
 
 # 👁️ HybridSight — RAG + Web Search + Vision Agent
 
-**🔗 Live app:** _[add your Hugging Face Spaces URL here once deployed]_
+**🔗 Live app:** _[https://huggingface.co/spaces/Urvxshhhhh0201/hybridsight]_
 
 A single [LangGraph](https://langchain-ai.github.io/langgraph/) agent that answers from your uploaded PDFs, the live web, and uploaded images — in one conversation, with full memory and a visible reasoning trace — wrapped in a tabbed [Gradio](https://www.gradio.app/) UI and deployed live on Hugging Face Spaces.
 
